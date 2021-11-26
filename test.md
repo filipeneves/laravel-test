@@ -10,7 +10,7 @@ The objective of this test is to build an API that does simple CRUD operations.
 1. Feel free to use 3rd party packages if you feel it needs it.
 2. Make sure you include all necessary files/settings to setup test environment. (migration files, configs, etc)
 3. Do what you understand a "RESTful" API to be.
-4. Make sure validation works on both creation and update.
+4. Make sure validation works on both creation and update. (Can't create without having a title, author_id and article, is_published should be optional and defaults to true)
 5. Some Tests would be nice to see.
 
 # Others
